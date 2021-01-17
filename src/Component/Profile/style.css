@@ -1,0 +1,14 @@
+.App{
+
+  
+    display:flex;
+    flex-direction: column;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    color:brown;
+    margin-top: 20px;
+}
+.card{
+
+background-color: skyblue;
+}
